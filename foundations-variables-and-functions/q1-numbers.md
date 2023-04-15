@@ -29,7 +29,7 @@ Additional operations are available in python.
 
 | Operation       | Operator  | Example  | Example Result |
 |-----------------|-----------|----------|----------------|
-| Modulo          |  %        | 13//5    | 3              |
+| Modulo          |  %        | 13%5    | 3              |
 | Integer Division|  //       | 13//5    | 2              |
 
 Modulo - This obtains the remainder of the first number when divided by the second number.
